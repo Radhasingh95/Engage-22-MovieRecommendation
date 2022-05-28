@@ -20,6 +20,7 @@ Content Based Recommender System recommends movies similar to the movie user cho
 
 ## Project Flow
 
+![project flow](https://user-images.githubusercontent.com/78557327/170816926-790bf3da-10f3-4abb-909f-59b3606b7d8c.png)
 
 
 ## Similarity Score : 
