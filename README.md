@@ -21,6 +21,8 @@ Content Based Recommender System recommends movies similar to the movie user cho
 
 ![project flow](https://user-images.githubusercontent.com/78557327/170816926-790bf3da-10f3-4abb-909f-59b3606b7d8c.png)
 
+## Video Demo
+https://drive.google.com/file/d/1MZDQeou7q_-dtHxZtjeaKY3T1NmH9v2R/view?usp=sharing
 
 ## Similarity Score : 
 
