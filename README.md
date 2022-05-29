@@ -13,7 +13,6 @@ Content Based Recommender System recommends movies similar to the movie user cho
 2. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/requirements.txt) file with the command `pip install -r requirements.txt`
 3. Go to python notebook in the directory, run that file and 3 pkl files will be created in the directory.
 4. Open your terminal from your project directory and run the file `app.py` by executing the command `streamlit run app.py`.
-4. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 5. Hurray! That's it.
 
 
